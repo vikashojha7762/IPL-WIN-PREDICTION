@@ -2,7 +2,7 @@
 # 🏏 IPL Win Predictor
 
 This project predicts the winning probability of IPL matches using historical match data and machine learning.  
-It provides an **interactive Streamlit web app** where users can select match conditions (teams, city, target, score, overs, wickets) and get real-time win probabilities.
+It provides an interactive Streamlit web app where users can select match conditions (teams, city, target, score, overs, wickets) and get real-time win probabilities.
 
 ---
 
