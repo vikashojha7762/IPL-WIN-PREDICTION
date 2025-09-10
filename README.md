@@ -7,7 +7,7 @@ It provides an interactive Streamlit web app where users can select match condit
 ---
 
 ## 📁 Project Structure
-- Ipl win prediction.ipynb** → Jupyter Notebook for data cleaning, feature engineering, and model training.
+- Ipl win prediction.ipynb → Jupyter Notebook for data cleaning, feature engineering, and model training.
 - matches.csv → Dataset containing IPL match-level information.
 - deliveries.csv → Dataset containing ball-by-ball details of IPL matches.
 - app.py → Streamlit web application for win probability prediction.
